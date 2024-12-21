@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "san pham 1",
+      "price": 2003,
+      "description": "mo ta sp 1"
+    },
+    {
+      "title": "san pham thu 14",
+      "price": 14000333345,
+      "description": "mo ta san pham 14",
+      "id": 14
+    },
+    {
+      "title": "san pham 15",
+      "price": 465464,
+      "description": "mo ta 15",
+      "id": 15
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "trunghieu",
+      "email": "trunghieu@gamil.com"
+    },
+    {
+      "email": "aaaa@gmsil.vom",
+      "password": "$2a$10$vLo6zDfMs5sw1xoy7sM/Q.hWd7tJZNO27RCzxRqNkPk5CzurKOgB.",
+      "name": "fsdfsdf",
+      "id": 2
+    },
+    {
+      "email": "aaaaaa@gmsil.vom",
+      "password": "$2a$10$Kzbn4tQN2BqezikbIQsHO.nAA77Gg1Ogs1bfXBxnQBJ9lfxmp28UW",
+      "name": "werwer",
+      "id": 3
+    },
+    {
+      "email": "aaaaaaa@gmsil.vom",
+      "password": "$2a$10$DVVyDSel9mqZe3Nwhbq4.eL9ng14qNFhdFNjlCAGJ5C1vmMnC29mW",
+      "name": "ewrwer",
+      "id": 4
+    },
+    {
+      "email": "aaaaaaaaaaaa@gmsil.vom",
+      "password": "$2a$10$zafQzWXvx/agZr1OjnWgt.OqjWhwfmpKMGylbjHHqKlaeNW4wDdj.",
+      "name": "hieu",
+      "id": 5
+    },
+    {
+      "email": "saaa@gmsil.vom",
+      "password": "$2a$10$uS9tu3GIcLcoi5CFQ6RMmeobtfX4gI/hmPoan/0TmLwVDETMLQhR2",
+      "name": "aadasd",
+      "id": 6
+    }
+  ]
+}
